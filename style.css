@@ -43,7 +43,7 @@
     display: flex;
     align-content:space-around;
     align-items:center;    
-    margin: 50px 100px;
+    margin: 20px 100px;
 }
 
 .Feeds_section i{
@@ -52,4 +52,50 @@
 
 .Feeds_section_img{
     margin-left: 410px;
+}
+.like_cmnt{
+    margin-left: 28%;
+    font-size: 20px;
+    display: flex;
+    align-content: space-between;
+}
+.like_cmnt i{
+    margin: 20px 5px;
+    font-size: 30px;
+    padding: 10px 5px;
+}
+
+.like_cmnt div i{
+    margin-left: 750%;
+}
+
+.text_comment{
+    margin-left: 29%;
+    font-size: 15px;
+    font-weight: bold;
+}
+.comments{
+    margin-top: 20px;
+    margin-left: 29%;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-flex;
+}
+
+.comments div i{
+    margin-left: 280px;
+}
+
+.second_feed{
+    margin-top: 40px;
+}
+
+#mid_options{
+    margin-top: 20px;
+    margin-left: 410px;
+}
+#last_option{
+    position: fixed;
+    top: 0;
+    margin-left: 1010px;
 }
